@@ -1,0 +1,19 @@
+{
+  "name": "testblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testB"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstikShar/testBlog.git"
+  },
+  "author": "Astik Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AstikShar/testBlog/issues"
+  },
+  "homepage": "https://github.com/AstikShar/testBlog#readme"
+}
